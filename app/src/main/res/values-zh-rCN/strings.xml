@@ -3,11 +3,11 @@
     <string name="tab_overview">主页</string>
     <string name="tab_medicine">项目</string>
     <string name="add_medicine">添加项目</string>
-    <string name="medicine_name">名称</string>
+    <string name="medicine_name">项目名称</string>
     <string name="add_reminder">新建提醒</string>
     <string name="delete">删除</string>
     <string name="time">时间</string>
-    <string name="dosage">默认数量</string>
+    <string name="dosage">数量</string>
     <string name="yes">确定</string>
     <string name="ok">完成</string>
     <string name="cancel">取消</string>
@@ -15,9 +15,9 @@
     <string name="are_you_sure_delete_medicine">确定删除该项目吗？</string>
     <string name="no_reminders">未设置提醒</string>
     <plurals name="sum_reminders">
-        <item quantity="other">共有 %1$d 条提醒\n%2$s</item>
+        <item quantity="other">共 %1$d 条提醒\n%2$s</item>
     </plurals>
-    <string name="notification_title">🔔提醒</string>
+    <string name="notification_title">【事件提醒】</string>
     <string name="taken">已确认</string>
     <string name="skipped">已跳过</string>
     <string name="recent_events">近期记录</string>
@@ -34,7 +34,7 @@
     <string name="twenty_four_hours">24 小时</string>
     <string name="two_days">2 天</string>
     <string name="three_days">3 天</string>
-    <string name="app_url">访问 Github 页面</string>
+    <string name="app_url">Github</string>
     <string name="color">标记颜色</string>
     <string name="select_color">自定义颜色</string>
     <string name="exact_reminders">精确时间提醒</string>
@@ -65,7 +65,7 @@
     <string name="restore_start">恢复操作将覆盖现有的所有项目数据、提醒、记录。\n\n确定继续吗?</string>
     <string name="log_additional_dose">添加单次记录</string>
     <string name="dismiss_notification_action">忽略通知时的操作</string>
-    <string name="skip_reminder">跳过本次记录</string>
+    <string name="skip_reminder">跳过本次</string>
     <string name="snooze">稍后提醒</string>
     <string name="snooze_duration">稍后提醒时长</string>
     <string name="minutes_5">5 分钟</string>
@@ -115,7 +115,7 @@
     <string name="intro_notification_description">到了设定的提醒时间，会出现一则通知，提供三种操作选项。标记为已确认（单击“已确认”按钮），跳过（关闭此通知），或一段时间后再次提醒（“稍后提醒”）。</string>
     <string name="intro_overview_description">在主页会显示下次提醒与近期记录。向右滑动以编辑记录，向左滑动以删除记录。\n\n此外，也可以手动记录已添加项目或未添加项目的单次记录。</string>
     <string name="intro_analysis_description">所有记录储存于本地。您可以在“分析”页面中查看过去的记录情况，也可以通过 更多（三个点）菜单导出历史记录。即使项目、记录被删除或重命名，已导出的历史记录也会保留。</string>
-    <string name="show_intro">查看使用说明</string>
+    <string name="show_intro">使用说明</string>
     <string name="are_you_sure_delete_reminder_event">确定要删除该记录吗？</string>
     <string name="high">高</string>
     <string name="notification_importance">通知优先级</string>
