@@ -7,7 +7,7 @@
     <string name="add_reminder">新建提醒</string>
     <string name="delete">删除</string>
     <string name="time">时间</string>
-    <string name="dosage">数量</string>
+    <string name="dosage">记录数量</string>
     <string name="yes">确定</string>
     <string name="ok">完成</string>
     <string name="cancel">取消</string>
@@ -42,7 +42,7 @@
     <string name="exact_reminders_summary">在精确的时间提醒 (更耗电)</string>
     <string name="enable_alarm_dialog">要使用精确时间提醒，请在以下菜单中为 MedTimerE 启用此功能</string>
     <string name="generate_test_data">生成测试数据</string>
-    <string name="create_reminder_dosage_hint">请输入默认记录数值</string>
+    <string name="create_reminder_dosage_hint">请输入默认记录数量</string>
     <string name="cycle_consecutive_days">连续提醒天数</string>
     <string name="theme">主题</string>
     <string name="default_">默认</string>
@@ -102,7 +102,7 @@
     <plurals name="last_n_days">
         <item quantity="other">%1$d 天内记录</item>
     </plurals>
-    <string name="name">名称</string>
+    <string name="name">项目名称</string>
     <string name="event_data">记录数据</string>
     <string name="backup">备份</string>
     <string name="taken_now">现在记录</string>
@@ -111,7 +111,7 @@
     <string name="intro_welcome">欢迎使用 MedTimerE!</string>
     <string name="intro_welcome_description">MedTimerE 注重隐私、开源免费，提醒你按时记录。\n\n请授予权限以显示提醒通知。</string>
     <string name="intro_medicine_description">在“项目”选项卡创建你正记录并想被提醒的项目。你可以分配标签并配置它们的余量。</string>
-    <string name="intro_reminder_description">选择一个项目可以编辑详细信息，可以创建不同记录数值的多个提醒。\n\n提醒可以基于时间或间隔来设置，可以限定到特定某些天。</string>
+    <string name="intro_reminder_description">选择一个项目可以编辑详细信息，可以创建不同记录数量的多个提醒。\n\n提醒可以基于时间或间隔来设置，可以限定到特定某些天。</string>
     <string name="intro_notification_description">到了设定的提醒时间，会出现一则通知，提供三种操作选项。标记为已确认（单击“已确认”按钮），跳过（关闭此通知），或一段时间后再次提醒（“稍后提醒”）。</string>
     <string name="intro_overview_description">在主页会显示下次提醒与近期记录。向右滑动以编辑记录，向左滑动以删除记录。\n\n此外，也可以手动记录已添加项目或未添加项目的单次记录。</string>
     <string name="intro_analysis_description">所有记录储存于本地。您可以在“分析”页面中查看过去的记录情况，也可以通过 更多（三个点）菜单导出历史记录。即使项目、记录被删除或重命名，已导出的历史记录也会保留。</string>
@@ -184,10 +184,10 @@
     <string name="medicine_stock">项目余量</string>
     <string name="amount">数量</string>
     <string name="out_of_stock_reminder">低余量提醒</string>
-    <string name="reminder_threshold">触发提醒数值</string>
-    <string name="refill_size">默认记录数值</string>
+    <string name="reminder_threshold">触发提醒数量</string>
+    <string name="refill_size">默认记录数量</string>
     <string name="refill_now">添加余量</string>
-    <string name="variable_amount">输入记录数值</string>
+    <string name="variable_amount">输入记录数量</string>
     <string name="tags">标签</string>
     <string name="add_tag">添加标签</string>
     <string name="are_you_sure_delete_tag">确定要删除标签吗？</string>
