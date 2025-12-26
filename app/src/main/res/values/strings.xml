@@ -191,7 +191,7 @@
     <string name="medicine_stock_string">%1$s left</string>
     <string name="out_of_stock_notification_title">Item out of stock reminder</string>
     <string name="medicine_stock">Item stock</string>
-    <string name="amount">Amount</string>
+    <string name="amount">Current Amount</string>
     <string name="out_of_stock_reminder">Out of stock reminder</string>
     <string name="reminder_threshold">Reminder threshold</string>
     <string name="refill_size">Refill size</string>
