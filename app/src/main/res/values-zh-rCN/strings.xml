@@ -182,10 +182,10 @@
     <string name="medicine_stock_string">还剩 %1$s</string>
     <string name="out_of_stock_notification_title">低余量提醒</string>
     <string name="medicine_stock">项目余量</string>
-    <string name="amount">数量</string>
+    <string name="amount">当前余量</string>
     <string name="out_of_stock_reminder">低余量提醒</string>
     <string name="reminder_threshold">触发提醒余量</string>
-    <string name="refill_size">默认添加数量</string>
+    <string name="refill_size">添加余量数值</string>
     <string name="refill_now">添加余量</string>
     <string name="variable_amount">输入数量</string>
     <string name="tags">标签</string>
